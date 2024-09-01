@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://victor-schumann.github.io/blog-demo-production/posts/my-first-post/</loc>
+    <loc>https://victor-schumann.github.io/hugo-blog-production/posts/my-first-post/</loc>
     <lastmod>2024-09-01T23:29:10+01:00</lastmod>
   </url><url>
-    <loc>https://victor-schumann.github.io/blog-demo-production/</loc>
+    <loc>https://victor-schumann.github.io/hugo-blog-production/</loc>
     <lastmod>2024-09-01T23:29:10+01:00</lastmod>
   </url><url>
-    <loc>https://victor-schumann.github.io/blog-demo-production/posts/</loc>
+    <loc>https://victor-schumann.github.io/hugo-blog-production/posts/</loc>
     <lastmod>2024-09-01T23:29:10+01:00</lastmod>
   </url><url>
-    <loc>https://victor-schumann.github.io/blog-demo-production/categories/</loc>
+    <loc>https://victor-schumann.github.io/hugo-blog-production/categories/</loc>
   </url><url>
-    <loc>https://victor-schumann.github.io/blog-demo-production/tags/</loc>
+    <loc>https://victor-schumann.github.io/hugo-blog-production/tags/</loc>
   </url>
 </urlset>
